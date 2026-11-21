@@ -16,7 +16,7 @@ The component values are derived analytically to meet a target switching frequen
 *   **Calculated Inductance ($L$):** 1.3e-4 H
 *   **Calculated Capacitance ($C$):** 1.7e-4 F
 
-![DC-DC Buck Circuit](Design Specification.png)
+![Design Specification](Design%20Specification.png)
 
 ## Simulation Architecture
 The Simulink model (`DC_DC_buck.slx`) is partitioned into two principal subsystems: the control stage and the physical power stage.
