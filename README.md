@@ -32,7 +32,7 @@ The simulation is executed with a discrete sample time of 1e-6 s. The resulting 
 *   **Output Voltage:** The system exhibits a transient overshoot during the initial startup phase. Following this, the voltage stabilizes at a steady-state value of exactly 20 V, maintaining the specified low ripple.
 *   **Inductor Current:** The current stabilizes at an average value of 2 A (consistent with $V_o/R$). The waveform displays the characteristic triangular ripple inherent to continuous conduction mode (CCM) operation at 20 kHz.
 
-![Output Graph](Output Graph.png)
+![Output Graph](Output%20Graph.png)
 
 ## Repository Contents
 *   `DC_DC_buck.slx`: The primary Simulink model file.
